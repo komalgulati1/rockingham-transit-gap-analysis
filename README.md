@@ -178,7 +178,7 @@ This project was made possible through the support of:
 
 If referencing this work, please cite:
 
-> Gulati, K., Quansah, D., Jones, A., & Abdelmalak, M. (2026). *Connected Rural Mobility: Local-Intercity Coordination in Rockingham County, North Carolina.* CR2C2 Southeast Data Competition 2026, NC A&T State University. Advisor: Dr. Venktesh Pandey.
+> Gulati, K., Quansah, D., Jones, A., & Abdelmalak, M. (2026). *Connected Rural Mobility: Local-Intercity Coordination in Rockingham County, North Carolina.* CR2C2 Southeast Data Competition 2026, NC A&T State University.
 
 ---
 
