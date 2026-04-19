@@ -7,6 +7,8 @@
 **CR2C2 Southeast Data Competition 2026 · NC A&T State University**
 
 > *Sponsored by **Honda** · Organized by the **Center for Regional and Rural Connected Communities (CR2C2)***
+>
+> *Competition Chair: **Dr. Venktesh Pandey**, Civil & Environmental Engineering, NC A&T State University*
 
 ---
 
@@ -27,7 +29,6 @@ The interactive dashboard at the link above allows planners, commissioners, and 
 | **Akilah Jones** | Stakeholder Engager |
 | **Meray Abdelmalak** | Designer / Planner |
 
-**Faculty Advisor:** Dr. Venktesh Pandey, Civil & Environmental Engineering, NC A&T State University
 
 ---
 
@@ -67,7 +68,7 @@ A unified mobile app providing centralized booking across RCATS, Local Link, and
 ### Solution 2 — Employer Coordination with ADTS
 An employer-transit partnership framework — beginning with the Gildan corridor — that introduces monthly service contracts with ADTS, an on-demand evening vehicle tied to Connector arrivals, and a coordination dashboard visualizing SKAT schedules against Connector windows. Closes the 205-minute evening gap without new infrastructure.
 
-### Solution 3 — MILP-Optimized Weekend Transfer Hub
+### Optimization Derived — MILP-Optimized Weekend Transfer Hub
 A Mixed-Integer Linear Program (PuLP/CBC solver) selecting the optimal weekend transfer hub from all 67 SKAT stop candidates, scoring each on:
 
 ```
@@ -158,9 +159,9 @@ This project was made possible through the support of:
 - **CR2C2 (Center for Regional and Rural Connected Communities)** — Competition Organizer, NC A&T State University
 - **PART (Piedmont Authority for Regional Transportation)** — Community Partner
 - **ADTS (Aging, Disability & Transit Services of Rockingham County)** — Stakeholder; special thanks to **Meggan Odell** for stakeholder engagement and schedule confirmation
+- **Rockingham County** — Stakeholder
 - **Sunway Charters / NCDOT** — Triad-Danville Connector operator
 - **SKAT** and **RCATS** — Local transit data
-- **Rockingham County** — Geographic and demographic context
 
 ---
 
@@ -169,7 +170,7 @@ This project was made possible through the support of:
 | File | Description |
 |---|---|
 | `index.html` | Interactive Transit Access Coverage Dashboard (self-contained, no build step) |
-| `Data_Competition_2026_Presentation.pdf` | Full competition presentation (27 slides + appendices) |
+| `Data_Competition_2026_Presentation.pdf` | Full competition presentation (27 slides + appendices) — [View PDF](https://github.com/komalgulati1/rockingham-transit-gap-analysis/blob/main/Data_Competition_2026_Presentation.pdf) |
 
 ---
 
